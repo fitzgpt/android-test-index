@@ -142,5 +142,21 @@
     "description": "Test module.",
     "url": "https://raw.githubusercontent.com/fitzgpt/android-test-index/main/module9.bin",
     "name": "TestModule9"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=example.tr&sz=%size%",
+    "fileHash": "sha256-41860b53f399354887674d7c4531dfe690ad69a089622a3e0bfccc7f9fcdd437",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/fitzgpt/android-test-index",
+    "fileSize": 12460,
+    "status": 1,
+    "language": "tr",
+    "authors": ["test"],
+    "tvTypes": ["Live"],
+    "version": 1,
+    "internalName": "TestModule10",
+    "description": "Test module.",
+    "url": "https://raw.githubusercontent.com/fitzgpt/android-test-index/main/module10.bin",
+    "name": "TestModule10"
   }
 ]
