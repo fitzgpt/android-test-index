@@ -1,0 +1,9 @@
+{
+  "iconUrl": "https://www.google.com/s2/favicons?domain=example.com&sz=%size%",
+  "name": "android-test",
+  "description": "Android test index.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/fitzgpt/android-test-index/main/plugins.json"
+  ]
+}
