@@ -4,6 +4,6 @@
   "description": "Android test index.",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/fitzgpt/android-test-index/main/list-v4.json"
+    "https://raw.githubusercontent.com/fitzgpt/android-test-index/main/list-v5.json"
   ]
 }
